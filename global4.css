@@ -1,0 +1,32 @@
+.divBlock4{
+
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    background-color: rgba(128, 128, 128, 0.76);
+    color: white;
+    margin: auto;
+}
+
+.menuBlock4 ul{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menuBlock4 ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.menuBlock4 ul li{
+    list-style: none;
+}
+
+img{
+    height: 60px;
+    width: 100px;
+    padding: 20px;
+}
